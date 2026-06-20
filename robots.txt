@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dr-kumar-pritam-research.netlify.app/sitemap.xml
